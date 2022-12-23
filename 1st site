@@ -2,9 +2,50 @@
 <html lang='en'>
 <head>
    <meta charset="UTF-8">
-   <tittle></tittle>
+   <tittle>MESSI</tittle>
+   <link rel="stylesheet" href="stylecss.css">
 </head>
 <body>
+   <div class="header">
+      <div class="container">
+         <div class="navbar">
+            <div class="logo">
+               <img src="C:\website.1\a9b01823301e96fb593458fd3713f2fe.png" width="100px">
+               
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="">Home</a></li>
+                  <li><a href="">Google</a></li>
+                  <li><a href="">Response</a></li>
+                  <li><a href="">contact</a></li>
+               </ul>
+            </nav>
+         </div>
+         <div class="row">
+            <div class="col-2">
+               <h1>Messi<br> The King Of Football</h1>
+               <p>
+                  Messi Won FIFA World Cup 2022
+               </p>
+               <a href="" class="btn">Explore Now &#8594</a>
+   
+            </div>
+            <div class="col-2">
+               <img src="C:\website.1\lionel-messi-soccer-photoshop-effects-wallpaper-preview.jpg">
+               
+            </div>
+   
+         </div>
+      
+   
+      </div>
+   </div>
+   
+
+
+
+
 
 </body>
 </html>
