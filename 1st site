@@ -1,34 +1,27 @@
-<!doctype html>
-<html lang='en'>
-<head>
-   <meta charset="UTF-8">
-   <tittle>Online site</tittle>
-   <link rel="stylesheet" href="stylecss.css">
-</head>
-<body>
-   <div class="container">
-      <div class="navbar">
-         <div class="logo">
-            <img src="C:\website.1\IMG_20221220_213819_395.jpg" width="200px">
-            
-         </div>
-         <nav>
-            <ul>
-               <li><a href="">Home</a></li>
-               <li><a href="">Google</a></li>
-               <li><a href="">Response</a></li>
-               <li><a href="">contact</a></li>
-            </ul>
-         </nav>
-      </div>
-   
 
-   </div>
-   
-
-
-
-
-
-</body>
-</html>
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 25px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
