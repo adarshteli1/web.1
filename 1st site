@@ -1,8 +1,10 @@
-
 {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.header{
+    background: radial-gradient(azure, rgb(77, 142, 227));
 }
 .navbar{
     display: flex;
@@ -24,4 +26,40 @@ nav ul li{
 a{
     text-decoration: none;
     color: blue;
+}
+p{
+    color: blue;
+}
+.container{
+    max-width: 1300px;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.col-2 img{
+    max-width: 50%;
+    padding: 50px 315px;
+}
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+}
+.btn{
+    display: inline-block;
+    background-color: rgb(95, 203, 245);
+    color: azure;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
 }
