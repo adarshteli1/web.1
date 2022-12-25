@@ -17,8 +17,8 @@
             </div>
             <nav>
                <ul>
-                  <li><a href="">Home</a></li>
-                  <li><a href="">Google</a></li>
+                  <li><a href="file:///C:/website.1/MESSI.html">Home</a></li>
+                  <li><a href="https://www.google.com/">Google</a></li>
                   <li><a href="">Response</a></li>
                   <li><a href="">contact</a></li>
                </ul>
@@ -30,7 +30,7 @@
                <p>
                   Messi Won FIFA World Cup 2022
                </p>
-               <a href="" class="btn">Explore Now &#8594</a>
+               <a href="file:///C:/website.1/messiexp.html" class="btn">Explore Now &#8594</a>
    
             </div>
             <div class="col-2">
@@ -46,9 +46,12 @@
    <div class="catgories">
       <div class="small-container">
          <div class="row">
-            <div class="col-3"><img src="C:\website.1\fcb logo.jpg"></div>
-            <div class="col-3"><img src="C:\website.1\Argentina logo.png"></div>
-            <div class="col-3"><img src="C:\website.1\psg logo.jpg"></div>
+               <div class="col-3"><a href="file:///C:/website.1/fcb.html" class="btnn"><img src="C:\website.1\fcb logo.jpg"></a>
+               </div>          
+               <div class="col-3"><a href="file:///C:/website.1/agn.html" class="btnn"><img src="C:\website.1\Argentina logo.png"></a>
+               </div>
+               <div class="col-3"><a href="file:///C:/website.1/psg.html" class="btnn"><img src="C:\website.1\psg logo.jpg"></a>
+               </div>
          </div>
       </div>
    </div>
