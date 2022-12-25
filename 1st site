@@ -1,2 +1,80 @@
-<html>
+<!doctype html>
+<html lang='en'>
+<head>
+   <meta charset="UTF-8">
+   <link rel="stylesheet" href="stylecss.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,600;1,100&display=swap" rel="stylesheet">
+
+</head>
+<body>
+   <div class="header-2">
+       <tittle>MESSI</tittle>
+      <div class="container">
+         <div class="navbar">
+            <div class="logo">
+               <img src="C:\website.1\Messi logo.png" width="100px">
+               
+            </div>
+            <nav>
+               <ul>
+                  <li><a href="file:///C:/website.1/MESSI.html">Home</a></li>
+                  <li><a href="https://www.google.com/">Google</a></li>
+                  <li><a href="">Response</a></li>
+                  <li><a href="">contact</a></li>
+               </ul>
+            </nav>
+         </div>
+         <div class="col-4">
+            <img src="C:\website.1\leopic.jpg">
+         </div>
+        
+      </div>
+   </div>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <div class="footer">
+      <div class="container">
+         <div class="row">
+            <div class="footer-col-1"></div>
+            <h3>Download Our App</h3>
+            <p>Download Our App For Android and for IOS Mobile</p>
+            <img src="C:\website.1\playstorelogo.png">
+         </div>
+         <div class="footer-col-3">
+            <img src="C:\website.1\Messi logo.png" width="100px">
+            <p>Our Purpose is to Tell the world about Leonial Messi</p>
+         </div>
+         <div class="footer-col-4">
+            <h3>Follow ME</h3>
+            <ul>
+               <li><a href="" class="btnn">Instagram</a></li>
+               <li><a href="" class="btnn">Facebook</a></li>
+               <li><a href="" class="btnn">Youtube</a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+
+
+
+
+
+
+</body>
 </html>
